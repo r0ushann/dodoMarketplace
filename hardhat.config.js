@@ -5,7 +5,7 @@ module.exports = {
     networks: {
         hardhat: {},
         mumbai: {
-            url: process.env.STAGING_ALCHEMY_KEY,
+            url: https://polygon-mumbai.g.alchemy.com/v2/BoBVblJEM1aYN7X_bRvUlz40JQqRc2uZ,
             accounts: [process.env.PRIVATE_KEY]
         }
     },
